@@ -2,7 +2,7 @@
 > Simple TCP Port Scanner<br/>
 > Written in Go Lang by Gaurav Raj \[TheHackersBrain\]
 
-![bannerImage](https://thehackersbrain.github.io/assets/hiddenwave/banner.png)
+![bannerImage](https://gist.githubusercontent.com/thehackersbrain/87509d9dd5d128be66cc6b85fbcd26f8/raw/d94a58ea48c693ead571933d455652d6c3a116fb/netscan.png)
 
 NetScan is a simple `TCP` Port Scanner written in Golang while learning it.
 
